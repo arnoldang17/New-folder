@@ -18,6 +18,7 @@ public class Corporation1 {
         qwe aaa = new qwe();
         qwe bbb = new qwe();
         
+        
         String hours = JOptionPane.showInputDialog("Amount of Hours: ");
         int hours1 = Integer.parseInt(hours);
 
